@@ -5,7 +5,7 @@ GACoin TRC20 token on tron network
 Token Description:
 
 Token Name: GACoin
-Token SYmbol: GAC
+Token Symbol: GAC
 Supply: 10 000 000 000
 Decimals: 6
 Token Interface: TRC20
