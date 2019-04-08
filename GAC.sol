@@ -6,7 +6,7 @@ pragma solidity ^0.4.23;
 // Name           : GACoin
 // Total supply   : 10 000 000 000
 // Decimals       : 6
-//
+// Issued by: TCEd3ev8zADnsxALEBVtnobGo8Jmi9LNBy
 // (c) by GAC
 // ----------------------------------------------------------------------------
 
