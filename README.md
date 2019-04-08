@@ -10,6 +10,6 @@ Supply: 10 000 000 000
 Decimals: 6
 Token Interface: TRC20
 Token Issuer Address: TCEd3ev8zADnsxALEBVtnobGo8Jmi9LNBy
-Token Address: TNkgMaVQzwc84smCNS3T3Ep6dXvtSwxFAt
-Deployment Hash: 8f2c8871baf4c541d401b70a40faf4228bbedd1840a9f98305292861ca99260a
+Token Address: TRyzAtcV4FqvhncjxnokejJpfz7mt4sn4S
+Deployment Hash: ac75fbafd73377ab500868c5afc30ba6652561b6056ed23c032f43ed7bcd11b0
 Link on Tronscan:
