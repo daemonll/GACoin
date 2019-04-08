@@ -9,6 +9,6 @@ Token SYmbol: GAC
 Supply: 10 000 000 000
 Decimals: 6
 Token Interface: TRC20
-Token Issuer Address:
+Token Issuer Address: TCEd3ev8zADnsxALEBVtnobGo8Jmi9LNBy
 Token Address:
 Link on Tronscan:
