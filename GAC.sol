@@ -10,7 +10,7 @@ pragma solidity ^0.4.23;
 // (c) by GAC
 // ----------------------------------------------------------------------------
 
-contract ERC20Interface {
+contract TRC20Interface {
     function totalSupply() public view returns (uint);
     function balanceOf(address tokenOwner) public view returns (uint balance);
     function transfer(address to, uint tokens) public returns (bool success);
@@ -21,9 +21,9 @@ contract ERC20Interface {
     event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
 }
     // ------------------------------------------------------------------------
-    // ERC20 Token, but used as TRC20 with the addition of symbol, name and decimals supply and founder
+    // TRC20 with the addition of symbol, name and decimals supply and founder
     // ------------------------------------------------------------------------
-contract GACoin is ERC20Interface{
+contract GACoin is TRC20Interface{
     string public name = "GACoin";
     string public symbol = "GAC";
     uint8 public decimals = 6;
